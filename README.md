@@ -5,17 +5,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vedantpawar18&label=Profile%20views&color=0e75b6&style=flat" alt="vedantpawar18" /> </p>
 
+-Aspiring Full Stack Web Developer. Certified in both front end and back end technologies. Like to solve Data Structure and Algorithm problems. Seeking to further improve HTML5 and CSS3 skills as the future full stack developer.
+
 - 🌱 I’m currently learning **React, Node.js, MongoDB, Express.js**
 
-- 👨‍💻 All of my projects are available at [https://cheerful-crepe-64323f.netlify.app/](https://cheerful-crepe-64323f.netlify.app/)
+- 👨‍💻 Portfolio **https://roaring-nasturtium-44ed7d.netlify.app/**
 
 - 💬 Ask me about **HTML, CSS, REACT, JS**
 
 - 📫 How to reach me **vedantpawar18@gmail.com**
 
 - LinkedIn **https://www.linkedin.com/in/vedant-pawar-5319791b5/**
-
-- Portfolio **https://roaring-nasturtium-44ed7d.netlify.app/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
