@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React, Node.js, MongoDB, Express.js**
 
-- 👨‍💻 Portfolio **https://roaring-nasturtium-44ed7d.netlify.app/**
+- 👨‍💻 Portfolio **https://vedantpawarportfolio.netlify.app/**
 
 - 💬 Ask me about **HTML, CSS, REACT, JS**
 
