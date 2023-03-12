@@ -17,7 +17,7 @@
 
 - LinkedIn **https://www.linkedin.com/in/vedant-pawar-5319791b5/**
 
--Lives at : Pune, Maharashtra
+- Lives at : Pune, Maharashtra
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
