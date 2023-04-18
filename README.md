@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React, Node.js, MongoDB, Express.js**
 
-<!-- - 👨‍💻 Portfolio **https://vedantpawar18.github.io/** -->
+- 👨‍💻 Portfolio **https://vedantpawar18.github.io/**
 
 - 💬 Ask me about **HTML, CSS, REACT, JS**
 
