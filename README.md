@@ -32,6 +32,6 @@
 
 
 
-![Vedant's GitHub stats](https://github-readme-stats.vercel.app/api?username=vedantpawar18&show_icons=true&theme=transparent)
+![Vedant's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=vedantpawar18&show_icons=true&theme=transparent)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vedantpawar18&" alt="vedantpawar18" /></p>
