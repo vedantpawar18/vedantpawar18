@@ -23,7 +23,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/0*gqO3slLmGb4mUeje.gif">
  
-### 👤 Personal
+#### 👤 Personal
 - 🧑‍💻 **Name:** Vedant Pawar 
 - 📍 **Location:** Pune, India
 - 💼 **Role:** Full Stack Developer
