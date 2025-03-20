@@ -86,6 +86,14 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedantpawar18&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </div>
 
+ ## 🏆 Achievements
+
+- 🌟 Recently completed AWS course from Udemy - The course comprised of learning and practicing cloud computing concepts & various services of AWS. 
+- 🌟 Completed Forage's Cisco Intro to Software Engineering Completion Certificate - Where I developed a React-based front-end application.
+- 🌟 Learnt and Completed DSA Course on Udemy - Here, I learned to solve basic DSA questions and gain knowledge regarding various data structures and algorithms.
+- 🌟 ML Project for Language Translation - Built ML project using Python, ML learning libraries for language translation using CNN.
+- 🌟 Successfully learned and built projects each displaying each component of Spring Framework.
+
 ## 🌟 Featured Projects
 
 ### Real-time Dashboard System
