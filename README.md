@@ -5,16 +5,20 @@
 <h1 align="center">
   Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">, I'm Vedant Pawar
 </h1>
-<p align="center">🌟 Full Stack Developer | MERN Stack | AWS Certified | Building Scalable Real-Time Cloud Apps 🚀</p>
+
+<h3 align="center">
+  🌟 Full Stack Developer | MERN Stack | AWS Certified | Building Scalable Real-Time Cloud Apps 🚀
+</h3>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=54A6FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;MERN+Stack+Developer;Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=54A6FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;MERN+Stack+Developer;AWS+Cloud+Developer;Problem+Solver" alt="Typing SVG" />
 </p>
 
 <div align="center">
 
 [![Profile Views](https://komarev.com/ghpvc/?username=vedantpawar18&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/vedantpawar18)
 [![GitHub Followers](https://img.shields.io/github/followers/vedantpawar18?style=social)](https://github.com/vedantpawar18)
-[![Portfolio](https://img.shields.io/badge/Portfolio-vedantpawar18.github.io-blue)](https://vedantpawar18.github.io/)
+[![Resume](https://img.shields.io/badge/Resume-View-blue)](https://drive.google.com/file/d/1eMZSyy7HHTRaSzzMyUTOewVucj4FkSN2/view)
 
 </div>
 
@@ -27,9 +31,11 @@
 - 🧑‍💻 **Name:** Vedant Pawar  
 - 📍 **Location:** Pune, India  
 - 💼 **Role:** Full Stack Developer  
-- 🏢 **Company:** Syncthreads Computing LLP  
-- 🌱 **Learning:** AWS Advanced Services, Microservices Architecture  
-- 🏆 **Hobbies:** Coding, DSA, Building Scalable Apps, Reading Tech Blogs  
+- 🏢 **Current Company:** Syncthreads Computing LLP  
+- 🌱 **Learning:** Advanced AWS, Microservices, DSA  
+- 📬 **Email:** [vedantpawar18@gmail.com](mailto:vedantpawar18@gmail.com)
+- 📄 **Resume:** [View Here](https://drive.google.com/file/d/1eMZSyy7HHTRaSzzMyUTOewVucj4FkSN2/view)
+
 
 ---
 
@@ -38,24 +44,22 @@
 ### Full Stack Developer at Syncthreads Computing LLP
 *May 2023 - Present*
 
-- Built scalable full-stack MERN applications for defense (GBMRS) and vehicle tracking (VNS) platforms.
-- Implemented AWS cloud solutions: EC2, S3, Lambda, RDS deployments.
-- Developed real-time GPS-based tracking dashboards with **WebSocket** and **Socket.IO**.
-- Optimized system reliability, caching mechanisms, and CI/CD pipelines using GitHub Actions, Docker, and Nginx.
-- Deployed applications with PM2 and Nginx on AWS EC2 instances.
+- Built scalable full-stack MERN applications for defense and vehicle tracking projects.
+- Deployed on AWS Cloud with EC2, S3, Lambda, RDS.
+- Developed GPS-based real-time dashboards using WebSocket and Socket.IO.
+- Implemented CI/CD pipelines with GitHub Actions, Docker, Nginx, PM2.
+- Focused on system security, caching strategies, and database optimization.
 
 ---
 
 ### Full Stack Developer at Mind Spark Technologies
 *Sept 2021 - April 2023*
 
-- Developed a GPS-based Logistics ERP Platform (Smart Movers and Packers).
-- Built real-time vehicle tracking modules using **MERN Stack** and **Socket.IO**.
-- Designed database schemas, user roles (Customer, Admin, Service Provider), and live booking management.
-- Improved frontend performance with **lazy loading** and optimized asset delivery.
-- Conducted system testing, validation, and user acceptance testing for production releases.
-
-
+- Designed and developed a GPS-based Logistics ERP (Smart Movers and Packers).
+- Real-time vehicle tracking modules with MERN stack and WebSocket updates.
+- Designed scalable database schemas and RESTful APIs.
+- Optimized frontend with lazy loading and efficient asset delivery.
+- Conducted complete end-to-end testing and UAT deployment.
 
 ---
 
@@ -102,23 +106,22 @@
 
 ## 🏆 Achievements
 
-- 🎯 AWS Certified Solutions Architect Associate (Udemy 2025)
-- 🎯 DSA Certificate (Udemy 2023)
-- 🎯 Built Real-Time GeoTIFF Mapping tool on AWS Cloud
-- 🎯 Completed Cisco Intro to Software Engineering (Forage Program)
-- 🎯 Hackerrank 5⭐ in Problem Solving (800+ Points)
+- 🥇 AWS Certified Solutions Architect Associate (Udemy, 2025)
+- 🥇 DSA Certification (Udemy 2023)
+- 🥇 Built Real-Time GeoTIFF Mapping Tool on AWS Cloud
+- 🥇 5⭐ at Hackerrank Problem Solving (800+ Points)
 
 ---
 
 ## 🌟 Featured Projects
 
 ### Real-time Dashboard System
-- 📊 Live dashboards with WebSocket.
-- ⚙️ **Tech Stack:** React, Node.js, MongoDB, AWS.
+- 📊 Live dashboard with real-time GPS and analytics.
+- 🚀 Tech Stack: React, Node.js, MongoDB, AWS, WebSocket.
 
 ### GeoTIFF Mapping Tool
-- 🗺️ Handling massive geospatial imagery using AWS Lambda + S3.
-- ⚙️ **Tech Stack:** Node.js, AWS S3, Lambda.
+- 🗺️ High-resolution geospatial data visualization tool.
+- 🚀 Tech Stack: Node.js, AWS Lambda, S3.
 
 ---
 
@@ -127,7 +130,6 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vedant-pawar-5319791b5)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://vedantpawar18.github.io/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vedantpawar18@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vedantpawar18)
 
