@@ -7,7 +7,7 @@
 </h1>
 
 <h3 align="center">
-  🌟 Full Stack Developer | MERN Stack | AWS Certified | Building Scalable Real-Time Cloud Apps 🚀
+  🌟 Full Stack Developer | MERN Stack | Building Scalable Real-Time Cloud Apps 🚀
 </h3>
 
 <p align="center">
