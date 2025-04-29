@@ -34,7 +34,7 @@
 - 🏢 **Current Company:** Syncthreads Computing LLP  
 - 🌱 **Learning:** Advanced AWS, Microservices, DSA  
 - 📬 **Email:** [vedantpawar18@gmail.com](mailto:vedantpawar18@gmail.com)
-- 📄 **Resume:** [View Here](https://drive.google.com/file/d/1eMZSyy7HHTRaSzzMyUTOewVucj4FkSN2/view)
+- 📄 **Resume:** [View Here](https://drive.google.com/file/d/1BFhHCyYCR1_hftCvFpOpxYiVCVlRdUbQ/view)
 
 
 ---
