@@ -18,7 +18,7 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=vedantpawar18&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/vedantpawar18)
 [![GitHub Followers](https://img.shields.io/github/followers/vedantpawar18?style=social)](https://github.com/vedantpawar18)
-[![Resume](https://img.shields.io/badge/Resume-View-blue)](https://drive.google.com/file/d/1eMZSyy7HHTRaSzzMyUTOewVucj4FkSN2/view)
+[![Resume](https://img.shields.io/badge/Resume-View-blue)](https://drive.google.com/file/d/1BFhHCyYCR1_hftCvFpOpxYiVCVlRdUbQ/view)
 
 </div>
 
