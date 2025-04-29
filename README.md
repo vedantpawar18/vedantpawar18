@@ -18,7 +18,7 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=vedantpawar18&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/vedantpawar18)
 [![GitHub Followers](https://img.shields.io/github/followers/vedantpawar18?style=social)](https://github.com/vedantpawar18)
-[![Resume](https://img.shields.io/badge/Resume-View-blue)](https://drive.google.com/file/d/1BFhHCyYCR1_hftCvFpOpxYiVCVlRdUbQ/view)
+[![Resume](https://img.shields.io/badge/Resume-View-blue)](https://drive.google.com/file/d/1N-eLlYcGoZ1GYcZJn47x-shQCAfn4vBj/view)
 
 </div>
 
@@ -34,7 +34,7 @@
 - 🏢 **Current Company:** Syncthreads Computing LLP  
 - 🌱 **Learning:** Advanced AWS, Microservices, DSA  
 - 📬 **Email:** [vedantpawar18@gmail.com](mailto:vedantpawar18@gmail.com)
-- 📄 **Resume:** [View Here](https://drive.google.com/file/d/1BFhHCyYCR1_hftCvFpOpxYiVCVlRdUbQ/view)
+- 📄 **Resume:** [View Here](https://drive.google.com/file/d/1N-eLlYcGoZ1GYcZJn47x-shQCAfn4vBj/view)
 
 
 ---
